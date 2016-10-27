@@ -4,8 +4,9 @@
 ---
 This directive prevent scrolling the main document when scrolling a target element.
 
-Download [Angular Prevent Scroll (v.0.1.0)](https://github.com/gjlacerda/angular-prevent-scroll/archive/master.zip)
+Download https://github.com/gjlacerda/angular-prevent-scroll/archive/master.zip
 
+Demo http://codepen.io/gjlacerda/pen/zKXrYq
 
 ## Get Started :
 
